@@ -26,7 +26,7 @@ from sklearn.metrics import mean_squared_error
 #Inorder to calculate the distance we have used the gogale map API as only coordinated are given
 #tried to use this api to calculate distance but the dataset is quite large and only 10000 rows are processed at a time
 #so dropped this technique to calculate distance
-#gmaps = googlemaps.Client(key='AIzaSyAm_TEkXHyBqBAKJXca9N_JrZyy6K7dpoU') 
+#gmaps = googlemaps.Client(key='***') 
 #TYPE = "
 
 
